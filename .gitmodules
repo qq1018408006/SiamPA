@@ -1,0 +1,3 @@
+[submodule "siamban/core/PreciseRoIPooling"]
+	path = siamban/core/PreciseRoIPooling
+	url = https://github.com/vacancy/PreciseRoIPooling.git
