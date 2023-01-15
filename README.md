@@ -1,6 +1,6 @@
 # SiamPA
 
-This project hosts the code for implementing the SiamPA algorithm for visual tracking. 
+This project hosts the code for implementing the [SiamPA](https://www.worldscientific.com/doi/10.1142/S0219691323500054) algorithm for visual tracking. 
 
 The raw results are [here](https://drive.google.com/file/d/1p0IbQUmGSpd1Mx_m-rphZq4jYK8wwIXu/view?usp=share_link). The code based on the [PySOT](https://github.com/STVIR/pysot).
 
