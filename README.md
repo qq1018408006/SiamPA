@@ -2,7 +2,7 @@
 
 This project hosts the code for implementing the [SiamPA](https://www.worldscientific.com/doi/10.1142/S0219691323500054) algorithm for visual tracking. 
 
-The raw results are [here](https://drive.google.com/file/d/1p0IbQUmGSpd1Mx_m-rphZq4jYK8wwIXu/view?usp=share_link). The code is based on the [PySOT](https://github.com/STVIR/pysot).
+The raw results are [here](https://drive.google.com/file/d/1p0IbQUmGSpd1Mx_m-rphZq4jYK8wwIXu/view?usp=share_link). The code is based on [PySOT](https://github.com/STVIR/pysot) and [SiamBAN](https://github.com/hqucv/siamban).
 
 
 
