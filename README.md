@@ -49,7 +49,7 @@ The testing results will in the current directory(results/dataset/model_name/)
 
 ### Eval tracker
 
-assume still in `experiments/uav`
+Assume still in `experiments/uav`
 
 ``` bash
 python ../../tools/eval.py 	 \
